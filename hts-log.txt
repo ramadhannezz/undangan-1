@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 29 Jun 2025 11:19:42 at https://satumomen.com/preview/melayu +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://satumomen.com/preview/melayu -O1 "D:\Copy-web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:19:59	Warning: 	Found for https://unpkg.com/robots.txt
+11:19:59	Warning: 	File has moved from https://unpkg.com/robots.txt to /robots.txt@1.1.0/index.js
+11:20:00	Error: 	"Not Found" (404) at link https://satumomen.com/fonts/e111viva/e111viva.woff (from https://satumomen.com/fonts/e111viva/style.css)
+11:20:00	Error: 	"Not Found" (404) at link https://satumomen.com/fonts/e111viva/e111viva.svg (from https://satumomen.com/fonts/e111viva/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 61 links scanned, 57 files written (7536497 bytes overall) [4642904 bytes received at 257939 bytes/sec], 4363254 bytes transferred using HTTP compression in 30 files, ratio 31%, 8.7 requests per connection
+(2 errors, 2 warnings, 0 messages)
